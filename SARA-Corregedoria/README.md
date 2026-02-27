@@ -54,6 +54,14 @@ https://github.com/jenifferlayane/meu-portfolio/blob/d27816d8dd3a359ca3823871669
 
 ---
 
+### ⚙️ Arquitetura de Dados (Back-end)
+*Estruturação das listas no SharePoint Online, funcionando como um banco de dados relacional otimizado para o Power Apps.*
+
+![SharePoint Lists](https://github.com/jenifferlayane/meu-portfolio/blob/155b37cb6b946efdc56fa9c2366f9a2156eb613a/SARA-Corregedoria/Sara%20Listas%20no%20Sharepoint.png?raw=true)
+*Legenda: Organização das listas de suporte e base de dados principal para garantir a integridade e performance da solução.*
+
+---
+
 ### 📈 Ganhos Mensuráveis e Resultados
 - [x] **Eficiência Operacional:** Redução drástica no tempo de triagem manual.
 - [x] **Integridade de Dados:** Lógica para preservação de quebras de linha (Char 10) em históricos.
