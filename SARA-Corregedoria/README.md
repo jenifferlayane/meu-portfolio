@@ -10,6 +10,20 @@
 ### 📝 Visão Geral
 O **SARA 2.0** é uma solução de engenharia desenvolvida para transformar a gestão correcional ativa. O sistema substituiu controles manuais por um **motor de inteligência** que automatiza a triagem de admissibilidade, garantindo que processos críticos sejam identificados instantaneamente.
 
+### 💰 Eficiência Econômica e Sustentabilidade
+Um dos maiores pilares deste projeto foi a entrega de uma solução robusta com **custo zero de licenciamento adicional** para o Ministério.
+* **Aproveitamento de Recursos:** Desenvolvimento realizado utilizando exclusivamente as licenças já existentes do Microsoft 365 (SharePoint e Power Apps Seeded).
+* **Independência Tecnológica:** Sem necessidade de conectores premium (SQL/Dataverse) ou softwares de terceiros, garantindo que 100% do orçamento fosse focado na solução, não em licenças.
+
+---
+
+### 📽️ Demonstração em Vídeo (Screen Recording)
+*Breve demonstração da navegação fluida, transições de tela e carregamento otimizado de dados.*
+
+> [!TIP]
+> **[CLIQUE AQUI PARA ASSISTIR AO VÍDEO DO SISTEMA EM OPERAÇÃO]**
+> *(Sugestão: Suba um GIF ou vídeo curto no seu repositório e coloque o link aqui)*
+
 ---
 
 ### 🛠️ Diferenciais Técnicos & Inovações
@@ -23,19 +37,25 @@ O **SARA 2.0** é uma solução de engenharia desenvolvida para transformar a ge
 
 ---
 
-### 🎨 Experiência do Usuário (UI/UX)
+### 🎨 Galeria de Interface (UI/UX)
 
 #### 🖼️ Painel Principal de Dossiês (Layout Scannable)
-*O design utiliza uma **hierarquia cromática** estratégica: Azul (#6366F1) para monitoramento, Roxo (#6D31A2) para governança e Bege para Logs de Auditoria. Isso permite que o técnico identifique o status do processo em milissegundos.*
+*Hierarquia cromática estratégica para identificação de status em milissegundos.*
 
 > ![Dashboard SARA](./img/print_dashboard_sara.png)  
 > *Legenda: Visão geral dos cards de processos com lógica de cores para priorização.*
 
-#### 📊 Motor de Priorização e Auditoria
-*Refatoração completa dos logs de edição para preservar a integridade das informações e visualização detalhada da pontuação de admissibilidade.*
+#### 🖼️ Detalhamento e Motor de Priorização
+*Visualização do cálculo de pontuação de admissibilidade e logs de auditoria.*
 
 > ![Pontuação SARA](./img/print_pontuacao_sara.png)  
-> *Legenda: Detalhamento do cálculo de pontos (+5 pts, +10 pts) que define a urgência do caso.*
+> *Legenda: Tela de análise técnica com aplicação do score (+5 pts, +10 pts) de urgência.*
+
+#### 🖼️ Engenharia de Software (Back-end)
+*Estrutura do Power Apps Studio e lógica de filtros delegáveis.*
+
+> ![Power Apps Studio SARA](./img/print_studio_sara.png)  
+> *Legenda: Visão de desenvolvedor evidenciando a árvore de componentes e fórmulas otimizadas.*
 
 ---
 
