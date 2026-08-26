@@ -14,19 +14,19 @@ O **Painel de Gestão e Consulta de Ramais Institucionais** foi desenvolvido par
 
 A solução transforma uma base de ramais em uma experiência de consulta visual e interativa, permitindo localizar rapidamente **pessoas, ramais, unidades, prédios, andares e lotações**, além de oferecer uma visão consolidada da distribuição dos contatos institucionais.
 
-O painel foi estruturado em três níveis de navegação:
+O painel foi estruturado em três níveis principais de navegação:
 
 * 🏠 **Visão Geral**
 * 📋 **Listagem de Ramais**
 * 🔎 **Detalhes do Ramal**
 
-Essa organização permite partir de uma visão gerencial e avançar até a consulta individual de um ramal específico.
+Essa organização permite partir de uma visão gerencial da estrutura de contatos e avançar até a consulta individual de um ramal específico.
 
 ---
 
 # 🎥 Demonstração em Operação
 
-A demonstração abaixo apresenta a navegação pelas principais funcionalidades do painel.
+A demonstração abaixo apresenta a **navegação real pela interface do Power BI**, mostrando o funcionamento das principais áreas e recursos da solução.
 
 ### Durante a demonstração é possível visualizar:
 
@@ -42,23 +42,23 @@ A demonstração abaixo apresenta a navegação pelas principais funcionalidades
 * 📋 Listagem completa
 * 👤 Detalhamento do responsável pelo ramal
 * 📌 Localização detalhada
-* ☎️ Outros ramais da mesma unidade
+* ☎️ Outros ramais pertencentes à mesma unidade
 
 <br>
 
 <p align="center">
-  <img 
-    src="LINK_DO_SEU_GIF"
-    alt="Demonstração do Painel de Gestão e Consulta de Ramais"
+  <img
+    src="https://github.com/jenifferlayane/meu-portfolio/blob/main/Business-Intelligence/Lista-de-Ramais/Painel%20de%20Ramais.gif?raw=true"
+    alt="Demonstração do Painel de Gestão e Consulta de Ramais Institucionais"
     width="100%"
   />
 </p>
 
 <p align="center">
-  <em>Demonstração da navegação e das principais funcionalidades da solução.</em>
+  <em>Demonstração da navegação e das principais funcionalidades do Painel de Ramais.</em>
 </p>
 
-> 🔒 **Nota:** Os dados apresentados na versão pública devem ser fictícios ou anonimizados. Informações pessoais e de localização institucional não são disponibilizadas neste portfólio.
+> 🔒 **Nota:** As informações apresentadas na versão pública foram preparadas exclusivamente para fins de portfólio. Dados pessoais, contatos reais e informações sensíveis de localização foram anonimizados, substituídos ou simulados.
 
 ---
 
@@ -74,7 +74,7 @@ A página inicial oferece um **panorama consolidado da base de ramais**, permiti
 * 📍 Quantidade de unidades
 * ✅ Ramais disponíveis
 
-Além dos indicadores principais, a página disponibiliza diferentes análises de distribuição.
+Além dos indicadores principais, a página apresenta visualizações que permitem analisar como os contatos estão distribuídos dentro da estrutura institucional.
 
 ---
 
@@ -93,15 +93,15 @@ Esse recurso permite identificar:
 
 ## 🏬 Ramais por Lotação
 
-Análise da distribuição dos ramais de acordo com a lotação institucional.
+Análise da distribuição dos ramais conforme a lotação institucional.
 
-A visualização facilita a identificação das áreas com maior concentração de contatos cadastrados.
+Essa visualização facilita a compreensão da concentração de contatos entre diferentes áreas da organização.
 
 ---
 
 ## 🏢 Ramais por Andar
 
-O painel apresenta também uma análise da quantidade de ramais distribuídos pelos diferentes andares dos prédios.
+O painel também apresenta a quantidade de ramais distribuídos pelos diferentes andares dos prédios.
 
 Esse recurso auxilia na compreensão da **distribuição física dos contatos institucionais**.
 
@@ -109,7 +109,7 @@ Esse recurso auxilia na compreensão da **distribuição física dos contatos in
 
 ## 🗺️ Distribuição Geográfica
 
-A solução incorpora uma visualização geográfica para representar a distribuição dos ramais entre diferentes localizações.
+A solução incorpora uma visualização geográfica para representar a distribuição dos contatos entre diferentes localizações.
 
 A integração da informação territorial permite relacionar:
 
@@ -119,17 +119,19 @@ A integração da informação territorial permite relacionar:
 * Ramal
 * Distribuição física dos contatos
 
-> Na versão pública deste case, coordenadas e localizações específicas devem ser substituídas por dados demonstrativos.
+> Na versão pública deste portfólio, coordenadas, endereços e informações específicas de localização são anonimizados ou substituídos por dados demonstrativos.
 
 ---
 
 # 🎛️ Filtros Interativos
 
-A visão geral permite segmentar as informações de acordo com diferentes dimensões.
+A solução permite segmentar as informações de acordo com diferentes dimensões organizacionais.
 
 ### Principais filtros
 
 `Prédio` `Lotação` `Unidade`
+
+Os filtros permitem realizar análises direcionadas e localizar grupos específicos de contatos.
 
 Também foi disponibilizado um recurso para **remoção rápida dos filtros aplicados**, permitindo retornar facilmente à visão consolidada.
 
@@ -139,15 +141,24 @@ Também foi disponibilizado um recurso para **remoção rápida dos filtros apli
 
 A área de **Listagem** foi desenvolvida para permitir pesquisa e consulta detalhada dos contatos cadastrados.
 
-A interface reúne uma barra de pesquisa, filtros e uma tabela estruturada com os principais dados necessários para localização de um contato.
+A interface reúne:
+
+* 🔍 Pesquisa
+* 🎛️ Filtros
+* 📋 Tabela estruturada
+* 🔎 Acesso ao detalhamento
+
+Essa estrutura facilita a localização de um contato mesmo em bases com grande quantidade de registros.
 
 ---
 
-## 🔍 Pesquisa
+## 🔍 Pesquisa de Contatos
 
-O painel permite pesquisar diretamente por informações disponíveis na base, facilitando a localização rápida do contato desejado.
+O painel permite pesquisar diretamente pelas informações existentes na base.
 
-Esse recurso reduz a necessidade de percorrer manualmente grandes listas de ramais.
+Esse recurso possibilita localizar rapidamente pessoas ou ramais sem a necessidade de percorrer manualmente uma lista extensa.
+
+A pesquisa pode ser combinada com os filtros da solução para aumentar a precisão da consulta.
 
 ---
 
@@ -164,7 +175,7 @@ Entre as informações apresentadas estão:
 * Prédio
 * Andar
 
-A estrutura tabular permite comparar e localizar diferentes registros em uma única visualização.
+A estrutura tabular permite comparar e localizar diferentes registros dentro de uma única visualização.
 
 ---
 
@@ -174,7 +185,12 @@ A página permite combinar a pesquisa textual com filtros como:
 
 `Prédio` `Lotação` `Unidade`
 
-Dessa forma, o usuário pode realizar consultas mais específicas, como localizar contatos de uma determinada unidade ou prédio.
+Dessa forma, é possível realizar consultas mais específicas, como:
+
+* Contatos de determinada unidade
+* Ramais de um prédio específico
+* Pessoas pertencentes a determinada lotação
+* Ramais vinculados a uma área organizacional
 
 ---
 
@@ -182,23 +198,27 @@ Dessa forma, o usuário pode realizar consultas mais específicas, como localiza
 
 Após selecionar um registro, o usuário pode acessar uma página dedicada ao **detalhamento do ramal**.
 
-Essa tela reúne informações do contato, da unidade e da localização associada ao ramal.
+Essa área reúne informações do contato, da unidade e da localização associada ao registro selecionado.
 
 ---
 
 ## ☎️ Identificação do Ramal
 
-O cabeçalho apresenta as informações principais do registro selecionado, incluindo:
+O cabeçalho da página destaca as principais informações do ramal selecionado.
+
+Entre elas:
 
 * Número do ramal
 * Situação do ramal
 * Data de atualização da informação
 
+Essa organização facilita a identificação imediata do registro consultado.
+
 ---
 
 ## 👤 Responsável pelo Ramal
 
-A solução apresenta uma área dedicada ao responsável associado ao contato.
+A solução apresenta uma área específica para as informações relacionadas ao responsável ou usuário vinculado ao ramal.
 
 Entre as informações disponíveis estão:
 
@@ -207,7 +227,7 @@ Entre as informações disponíveis estão:
 * Função ou cargo
 * Unidade associada
 
-Essa estrutura permite identificar rapidamente quem utiliza ou é responsável pelo ramal consultado.
+Essa estrutura permite identificar rapidamente quem está associado ao contato consultado.
 
 ---
 
@@ -223,7 +243,7 @@ O painel consolida diferentes informações relacionadas à localização físic
 * Unidade
 * Lotação
 
-A organização dessas informações facilita a localização institucional do contato além da simples consulta telefônica.
+A organização dessas informações permite utilizar o painel não apenas como lista telefônica, mas também como uma ferramenta de **localização organizacional**.
 
 ---
 
@@ -231,7 +251,7 @@ A organização dessas informações facilita a localização institucional do c
 
 A tela de detalhes também possui uma visualização cartográfica vinculada ao registro selecionado.
 
-O recurso possibilita representar geograficamente a localização relacionada ao ramal.
+O recurso permite representar geograficamente a localização relacionada ao ramal.
 
 A solução pode relacionar informações como:
 
@@ -241,15 +261,15 @@ A solução pode relacionar informações como:
 * Latitude
 * Longitude
 
-> Por questões de segurança e confidencialidade, coordenadas e informações detalhadas de localização utilizadas na solução original não devem ser publicadas neste portfólio.
+> 🔒 Por questões de segurança, privacidade e confidencialidade institucional, coordenadas e informações detalhadas da estrutura física não são disponibilizadas na versão pública deste portfólio.
 
 ---
 
 # ☎️ Outros Ramais da Unidade
 
-Um dos diferenciais da solução é a possibilidade de visualizar **outros contatos vinculados à mesma unidade do ramal selecionado**.
+Um dos diferenciais da solução é a possibilidade de visualizar automaticamente **outros contatos pertencentes à mesma unidade do ramal selecionado**.
 
-A tabela relacionada permite consultar informações como:
+A tabela relacionada pode apresentar informações como:
 
 * Ramal
 * Nome
@@ -257,13 +277,13 @@ A tabela relacionada permite consultar informações como:
 * E-mail
 * Andar
 
-Esse recurso facilita a descoberta de contatos relacionados sem a necessidade de retornar à listagem principal e realizar uma nova busca.
+Esse recurso facilita a descoberta de contatos relacionados sem a necessidade de retornar à página principal e realizar uma nova pesquisa.
 
 ---
 
 # 🛠️ Diferenciais Técnicos & Funcionalidades
 
-| Recurso                        | Descrição                                                                                  | Tecnologia       |
+| Recurso                        | Descrição Técnica                                                                          | Tecnologia       |
 | :----------------------------- | :----------------------------------------------------------------------------------------- | :--------------- |
 | **KPIs Gerenciais**            | Visão consolidada da quantidade e distribuição dos ramais.                                 | Power BI         |
 | **Pesquisa de Contatos**       | Localização rápida de pessoas e registros na base.                                         | Power BI         |
@@ -316,7 +336,7 @@ Esse recurso facilita a descoberta de contatos relacionados sem a necessidade de
 
 # 🎨 UI/UX & Arquitetura da Informação
 
-A solução foi desenvolvida considerando não apenas a apresentação dos dados, mas também a **experiência de consulta**.
+A solução foi desenvolvida considerando não apenas a visualização dos dados, mas principalmente a **experiência de consulta e localização da informação**.
 
 A arquitetura da navegação segue uma progressão simples:
 
@@ -324,31 +344,33 @@ A arquitetura da navegação segue uma progressão simples:
                   VISÃO GERAL
                        │
                        ▼
-                   LISTAGEM
+                    LISTAGEM
                        │
-                 Pesquisa/Filtros
-                       │
-                       ▼
-              SELEÇÃO DO RAMAL
+                Pesquisa + Filtros
                        │
                        ▼
-                   DETALHES
+               SELEÇÃO DO RAMAL
+                       │
+                       ▼
+                    DETALHES
                  ┌─────┴─────┐
                  │           │
                  ▼           ▼
            RESPONSÁVEL   LOCALIZAÇÃO
                  │           │
                  └─────┬─────┘
+                       │
                        ▼
-             OUTROS RAMAIS
-               DA UNIDADE
+               OUTROS RAMAIS
+                 DA UNIDADE
 ```
 
-Essa organização permite que diferentes perfis de usuário utilizem o mesmo painel:
+Essa estrutura permite atender diferentes necessidades de consulta:
 
-* Quem precisa apenas de uma informação geral pode utilizar a **Visão Geral**
+* Quem precisa apenas de informações consolidadas utiliza a **Visão Geral**
 * Quem procura um contato específico utiliza a **Listagem**
-* Quem precisa de informações completas acessa os **Detalhes**
+* Quem necessita de informações completas acessa os **Detalhes**
+* Quem procura pessoas relacionadas pode consultar os **Outros Ramais da Unidade**
 
 ---
 
@@ -367,6 +389,7 @@ Foram considerados aspectos como:
 * Leitura rápida
 * Destaque visual para ações
 * Organização da informação por contexto
+* Progressão da visão geral para o detalhe
 
 ---
 
@@ -376,30 +399,34 @@ Foram considerados aspectos como:
                   BASE DE RAMAIS
                         │
                         ▼
-              Preparação dos Dados
+              PREPARAÇÃO DOS DADOS
                         │
                         ▼
-               Modelo de Informações
+              MODELO DE INFORMAÇÕES
                         │
        ┌────────────────┼────────────────┐
+       │                │                │
        ▼                ▼                ▼
-    Pessoas          Unidades       Localizações
+    PESSOAS          UNIDADES       LOCALIZAÇÕES
        │                │                │
        └────────────────┼────────────────┘
+                        │
                         ▼
-                   POWER BI
+                     POWER BI
                         │
           ┌─────────────┼─────────────┐
+          │             │             │
           ▼             ▼             ▼
-      Visão Geral    Listagem      Detalhes
+      VISÃO GERAL    LISTAGEM      DETALHES
           │             │             │
           │             ▼             ▼
-          │          Pesquisa      Responsável
-          │          & Filtros     Localização
+          │         Pesquisa       Responsável
+          │         + Filtros      Localização
           │                           │
           └─────────────┬─────────────┘
+                        │
                         ▼
-               PAINEL DE RAMAIS
+                PAINEL DE RAMAIS
 ```
 
 ---
@@ -410,7 +437,7 @@ Foram considerados aspectos como:
   Reunião das informações de ramais em uma única solução de consulta.
 
 * [x] **Pesquisa Mais Rápida**
-  Localização de contatos utilizando busca e filtros.
+  Localização de contatos utilizando pesquisa e filtros interativos.
 
 * [x] **Visibilidade Organizacional**
   Visualização da distribuição dos ramais entre unidades, lotações, prédios e andares.
@@ -425,7 +452,7 @@ Foram considerados aspectos como:
   Visualização de outros ramais pertencentes à mesma unidade.
 
 * [x] **Redução do Esforço de Consulta**
-  Menor necessidade de navegar por planilhas extensas ou listas descentralizadas.
+  Menor necessidade de percorrer planilhas extensas ou listas descentralizadas.
 
 * [x] **Experiência de Navegação**
   Estrutura organizada entre visão geral, pesquisa e detalhamento.
@@ -445,6 +472,10 @@ Foram considerados aspectos como:
 
 `Data Modeling` `Relacionamento de Dados` `Estruturação de Informações`
 
+### 🔍 Consulta
+
+`Search` `Filtering` `Interactive Navigation` `Data Exploration`
+
 ### 📍 Visualização
 
 `Data Visualization` `Geographic Analysis` `Dashboard Design`
@@ -457,7 +488,7 @@ Foram considerados aspectos como:
 
 # 👩🏻‍💻 Minha Atuação
 
-Neste projeto, minha atuação envolveu atividades relacionadas à concepção, estruturação e desenvolvimento da solução, incluindo:
+Neste projeto, minha atuação envolveu diferentes etapas da concepção, estruturação e desenvolvimento da solução:
 
 * Análise da necessidade de negócio
 * Levantamento das informações necessárias
@@ -484,34 +515,35 @@ Neste projeto, minha atuação envolveu atividades relacionadas à concepção, 
 
 Este case possui finalidade exclusivamente **técnica e profissional**.
 
-A solução original trabalha com informações de contato e localização vinculadas ao ambiente institucional. Por esse motivo, a versão pública do portfólio não disponibiliza as bases originais nem informações pessoais ou institucionais reais.
+A solução original trabalha com informações de contato e localização relacionadas ao ambiente institucional. Por esse motivo, a versão pública deste portfólio **não disponibiliza as bases originais nem informações pessoais ou institucionais reais**.
 
-Para apresentação pública, devem ser removidos, anonimizados, substituídos ou simulados:
+Para a demonstração pública, informações foram removidas, anonimizadas, substituídas ou simuladas, incluindo, quando aplicável:
 
 * Nomes de pessoas
 * E-mails
 * Números de ramal
-* Funções quando associadas a pessoas identificáveis
-* Prédios e localizações internas quando necessário
+* Funções associadas a pessoas identificáveis
+* Prédios e localizações internas
 * Salas
 * Endereços
 * Coordenadas geográficas
 * Latitude e longitude
 * Identificadores internos
-* Quantitativos institucionais, quando aplicável
+* Quantitativos institucionais
 
-A publicação deste case busca demonstrar exclusivamente:
+A disponibilização deste case tem como finalidade demonstrar exclusivamente:
 
 * Arquitetura da solução
 * Funcionalidades
 * Modelagem das informações
 * Recursos de consulta
+* Pesquisa e filtros
 * Navegação
 * Visualizações
 * UI/UX
 * Conhecimentos técnicos aplicados
 
-> **Importante:** Os dados apresentados na demonstração pública são fictícios, anonimizados ou modificados e **não devem ser utilizados como diretório oficial de contatos ou como fonte de informações sobre a estrutura física da instituição**.
+> **Importante:** Os dados apresentados na demonstração pública são fictícios, anonimizados, substituídos ou modificados e **não devem ser utilizados como diretório oficial de contatos ou como fonte de informações sobre a estrutura física da instituição**.
 
 ---
 
@@ -532,4 +564,3 @@ A publicação deste case busca demonstrar exclusivamente:
 <a href="../README.md">⬅️ Voltar para Business Intelligence</a>
 
 </p>
-
