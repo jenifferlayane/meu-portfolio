@@ -13,7 +13,7 @@ O **Painel Bertha** é a solução definitiva para a fragmentação de dados gov
 ### 📽️ Interface do Hub Principal (Navegação Centralizada)
 *Design focado em UX (User Experience) para garantir que qualquer usuário acesse as informações de todos os setores com apenas um clique.*
 
-![Painel Bertha Principal](https://github.com/jenifferlayane/meu-portfolio/blob/71e677d4e67f4f217d2b6da4417ca19986049c08/Painel%20Bertha/Painel%20Bertha.png?raw=true)
+![Painel Bertha Principal](https://github.com/jenifferlayane/meu-portfolio/blob/main/Painel%20Bertha/img_painelBertha.png?raw=true)
 *Legenda: Menu interativo que funciona como um "Painel dos Painéis", direcionando para secretarias e órgãos de assistência.*
 
 ---
